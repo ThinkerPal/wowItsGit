@@ -10,7 +10,7 @@ This robot somehow eats food. It's favourite foods are:
 Wow there's a new line here!
 
 
-Wow there's a new line here!
+
 
  
 =======
