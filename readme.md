@@ -1,9 +1,3 @@
-Hello! I am a robot!
+Hello! I am an angry Darkness!
 
-This robot somehow eats food. It's favourite foods are:
-
-- Apple
-- Banana 
-- Orange
-
-Wow there's a new line here!
+Kazuha is a joke.
