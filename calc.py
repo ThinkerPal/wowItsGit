@@ -7,5 +7,7 @@ elif op == "*":
     print(num1*num2)
 elif op == "/":
     print(num1/num2)
+elif op == 'sqaure-root':
+    print(num1^0.5)
 else:
     print(num1-num2)

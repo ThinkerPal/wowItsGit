@@ -1,4 +1,4 @@
-Hello! I am a robot!
+Hello! I am a robot! :)
 
 This robot somehow eats food. It's favourite foods are:
 
@@ -6,6 +6,14 @@ This robot somehow eats food. It's favourite foods are:
 - Banana 
 - Orange
 - Ralph
+- Shao 
 
 Wow there's a new line here!
+
+
+
+Wow there's a new line here!
+
+
+Obligatory new line commit here 
 
